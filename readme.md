@@ -2,8 +2,12 @@
 Dalton solutions has a pet database which contains a list of pets for each of its employees, but its subsidiary, Sterling Solutions doesn't have an employee database!
 Your counterpart at Dalton shared the code with you to use as a reference for what Sterling might want.
 
-## This is the live application:  
-https://daltonpets.herokuapp.com/login?logout
+## This is the live application: 
+https://daltonpets.herokuapp.com 
+ 
+## This is the reference code: 
+https://github.com/aoa4eva/Week7ChallengeReference 
+
 
 You have been hired by Sterling Solutions, Inc. to create an application that will list all of their employees and departments at the company.
 
