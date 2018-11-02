@@ -18,6 +18,7 @@ You should be able to:
 * Use forms to one or more departments to the database 
 * Use forms to add one or more employees and their designated departments to the database
 
+You should have a login that is available to an ordinary user (without the API user permission). 
 
 You should also have an API that is accessible if a user logs in with the APIUSER permission.
 The route should be accessible via the route /api/[the item the user wants to search for] 
