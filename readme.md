@@ -3,7 +3,7 @@ Dalton solutions has a pet database which contains a list of pets for each of it
 Your counterpart at Dalton shared the code with you to use as a reference for what Sterling might want.
 
 ## This is the live application:  
-https://git.heroku.com/daltonpets.git
+https://daltonpets.herokuapp.com/login?logout
 
 You have been hired by Sterling Solutions, Inc. to create an application that will list all of their employees and departments at the company.
 
